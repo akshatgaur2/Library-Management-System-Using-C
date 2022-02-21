@@ -13,6 +13,7 @@ Data for each book consists of:
   -> Subject
   
 Checkout data:
+
   -> Name
   -> Address
   -> Phone
