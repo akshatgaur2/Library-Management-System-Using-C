@@ -5,11 +5,17 @@ Very First mini-project, did in my first year when I was learning C basics
 Assume that the "Ansprin Library" maintains at most 2700 books. 
 
 Data for each book consists of:
+
   -> Book Number
+  
   -> Book Title
+  
   -> Author
+  
   -> Publisher
+  
   -> Year of Publication
+  
   -> Subject
   
 Checkout data:
